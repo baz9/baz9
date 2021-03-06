@@ -1,6 +1,6 @@
 ### ⚡ H E L L O
 
-⚡ Currently learning java, javascript, html & css
+⚡ Currently learning java & full stack web development
 
 ⚡ I'm doing a degree in software development and learning web development in my spare time to further develop my knowledge
 
