@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently leaving java, javascript, html & css
+
+I'm doing a degree in software development and learning web development as a side hobby
+
 <!--
 **baz9/baz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
